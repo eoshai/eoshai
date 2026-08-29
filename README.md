@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3134d6&center=true&vCenter=true&random=false&width=524&lines=Hello,+i%27m+Shai" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=9fa137&center=true&vCenter=true&random=false&width=524&lines=Hello,+i%27m+Shai" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,9 +8,9 @@
 
 #
 
-<p align="center">Olá! Sou entusiasta da área de computação forense e investigação cibernética. O que me move é a curiosidade em decifrar como funcionam os mecanismos de detecção e contenção de trapaças no ecossistema digital.
+<p align="center">Olá! Sou um jovem desenvolvedor com foco principal em Backend e entusiasta de segurança em games. Acredito firmemente que qualquer problema ou gargalo identificado é a oportunidade perfeita para construir uma solução inteligente.
 
-Hoje desempenho papel como analista de anti-cheat para jogos multiplayer, com o objetivo de manter a integridade das partidas e proteger a experiência dos jogadores. Além disso, dedico parte do meu tempo livre estudando programação. Estou constantemente criando projetos e desenvolvendo soluções práticas para elevar o nível de segurança e justiça nos jogos online, aperfeiçoando minhas habilidades a cada código.
+Gosto de arquitetar APIs limpas, modelar bancos de dados e aplicar regras de negócio sólidas, acelerando o front-end com ferramentas modernas para entregar projetos completos e funcionais. Atualmente, divido meu tempo entre a criação de sistemas e a análise de anti-cheat para jogos multiplayer, sempre buscando evoluir minhas habilidades a cada linha de código.
   
 #
 
@@ -18,7 +18,7 @@ Hoje desempenho papel como analista de anti-cheat para jogos multiplayer, com o 
 
 <h3 align="left">Connect with me</h3>
 
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=3134d6&color:FFF)](https://discord.com/users/905874224437157959)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=9fa137&color:FFF)](https://discord.com/users/905874224437157959)
 
 <h3 align="left">My Stack</h3>
 
