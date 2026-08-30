@@ -8,9 +8,10 @@
 
 #
 
-<p align="center">Olá! Sou um jovem desenvolvedor com foco principal em Backend e entusiasta de segurança em games. Acredito firmemente que qualquer problema ou gargalo identificado é a oportunidade perfeita para construir uma solução inteligente.
+<p align="center">Olá! Sou um desenvolvedor focado em Backend e criação de sistemas. Acredito firmemente que qualquer problema ou gargalo identificado é a oportunidade perfeita para construir uma solução inteligente.
 
-Gosto de arquitetar APIs limpas, modelar bancos de dados e aplicar regras de negócio sólidas, acelerando o front-end com ferramentas modernas para entregar projetos completos e funcionais. Atualmente, divido meu tempo entre a criação de sistemas e a análise de anti-cheat para jogos multiplayer, sempre buscando evoluir minhas habilidades a cada linha de código.
+Gosto de arquitetar APIs limpas, modelar bancos de dados e aplicar regras de negócio sólidas para entregar projetos completos, escaláveis e funcionais. Atualmente, foco na criação de sistemas web e automações, sempre buscando evoluir minhas habilidades a cada linha de código.
+</p>
   
 #
 
@@ -23,13 +24,13 @@ Gosto de arquitetar APIs limpas, modelar bancos de dados e aplicar regras de neg
 <h3 align="left">My Stack</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" height="25" alt="PY logo"  />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" height="30" alt="Python logo" title="Python" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="25" alt="cPP logo"  />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJS logo" title="Node.js" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/lua/lua-original.svg" height="30" alt="Lua logo" title="Lua" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
 </div>
 
 #
-
-<p align="center">
